@@ -15,4 +15,7 @@ function som(...rest){
 }
 
 //we voeren de som uit met 3 getallen die we meesturen
-console.log(som(4,2,6));
+console.log("3 getallen meegestuurd met rest functie: " + som(4,2,6));
+
+//we voeren de som uit met 8 getallen die we meesturen
+console.log("8 getallen meegestuurd met rest functie: " + som(4,2,6,1,5,24,7,12));
