@@ -1,6 +1,6 @@
 const person = {
     naam:"sophia",
-    age:"69",
+    age: 69,
     city: "england",
 }
 
